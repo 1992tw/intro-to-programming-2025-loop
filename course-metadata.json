@@ -22,19 +22,19 @@
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/intro-to-programming-2025",
   "remoteGithubUrl": "https://github.com/1992tw/intro-to-programming-2025-loop",
   "createdAt": "2025-08-22T18:21:17.927Z",
-  "updatedAt": "2025-08-22T18:21:20.831Z",
+  "updatedAt": "2025-08-22T18:23:00.723Z",
   "lessonCount": 15,
   "lessonMetadata": [
     {
       "id": "68a8b51e706a71ffac708b80",
       "lessonNumber": 1,
       "title": "## Scrimba",
-      "status": "pending",
+      "status": "complete",
       "assignment": {
         "title": "Assignment for Lesson 1",
         "objective": "No objective specified",
         "expectedCapabilities": [],
-        "instructions": [],
+        "submissionInstructions": "Please submit on time",
         "tasks": [
           {
             "taskNumber": 1,
@@ -44,7 +44,7 @@
             "_id": "68a8b51e706a71ffac708b87"
           }
         ],
-        "submissionInstructions": "Please submit on time",
+        "instructions": [],
         "checklist": [],
         "checkForUnderstanding": []
       },
@@ -57,7 +57,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b81"
+          "_id": "68a8b5fe706a71ffac708ea4"
         },
         {
           "subsectionOrder": 2,
@@ -67,7 +67,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b82"
+          "_id": "68a8b5fe706a71ffac708ea5"
         },
         {
           "subsectionOrder": 3,
@@ -77,7 +77,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b83"
+          "_id": "68a8b5fe706a71ffac708ea6"
         },
         {
           "subsectionOrder": 4,
@@ -87,7 +87,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b84"
+          "_id": "68a8b5fe706a71ffac708ea7"
         },
         {
           "subsectionOrder": 5,
@@ -97,7 +97,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b85"
+          "_id": "68a8b5fe706a71ffac708ea8"
         },
         {
           "subsectionOrder": 6,
@@ -107,20 +107,26 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b86"
+          "_id": "68a8b5fe706a71ffac708ea9"
         }
+      ],
+      "supplementalVideos": [
+        "https://www.youtube.com/watch?v=L6kMdLH1S8w&t=1s"
+      ],
+      "references": [
+        "Ref 1: https://www.youtube.com/watch?v=L6kMdLH1S8w&t=1s"
       ]
     },
     {
       "id": "68a8b51e706a71ffac708b89",
       "lessonNumber": 2,
       "title": "Loops",
-      "status": "pending",
+      "status": "complete",
       "assignment": {
         "title": "Assignment for Lesson 2",
         "objective": "No objective specified",
         "expectedCapabilities": [],
-        "instructions": [],
+        "submissionInstructions": "Please submit on time",
         "tasks": [
           {
             "taskNumber": 1,
@@ -130,7 +136,7 @@
             "_id": "68a8b51e706a71ffac708b8c"
           }
         ],
-        "submissionInstructions": "Please submit on time",
+        "instructions": [],
         "checklist": [],
         "checkForUnderstanding": []
       },
@@ -143,7 +149,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b8a"
+          "_id": "68a8b7ca706a71ffac709679"
         },
         {
           "subsectionOrder": 2,
@@ -153,8 +159,14 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b51e706a71ffac708b8b"
+          "_id": "68a8b7ca706a71ffac70967a"
         }
+      ],
+      "supplementalVideos": [
+        "https://www.youtube.com/watch?v=L6kMdLH1S8w&t=1s"
+      ],
+      "references": [
+        "https://www.youtube.com/watch?v=L6kMdLH1S8w&t=1s"
       ]
     },
     {
